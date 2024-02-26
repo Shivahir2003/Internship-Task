@@ -1,0 +1,166 @@
+.header-container-ithra .header-top-left{
+    display: none;
+}
+.header-container-ithra{
+    justify-content: left;
+    align-items: center;
+    /* font-size: 0.5rem */
+    padding: 30px;
+    font-size: 12px;
+   
+}
+.header-container-ithra .header-right{
+    display: none;
+
+}
+
+/* section one{} */
+
+
+.container-ithra #main-text{
+    font-size: 45px;
+}
+#section-one{
+    padding: 50px 25px;
+}
+.container-ithra #secomdary-text{
+    font-size: 18px;
+    /* margin: 10px 0px; */
+}
+.container-ithra .btn-view-calander{
+    max-width: 120px;
+    height: 25px;
+
+}
+.btn-view-calander #btn-text-calander{
+    font-size: 12px;
+    font-weight: 300;
+}
+.container-ithra #Description-main{
+    max-width: 650px;
+    font-size: 20px;
+}
+
+/* section two{} */
+
+#section-two{
+    flex-direction: column;
+}
+#section-two img{
+    max-width: 100%;
+
+    /* display: none; */
+    /* height: 100%; */
+}
+#section-two .left-img{
+    max-width: fit-content;
+    padding: 30px 20px;
+    height: auto;
+}
+#section-two .right-content{
+    padding: 30px 20px;
+    row-gap: 60px;
+
+}
+ #section-two .main-txt{
+    margin-bottom: 12px;
+}
+
+
+
+/* section three{} */
+
+#section-three-academy-domain .heading-three{
+    margin: 0px;
+    /* padding: 0; */
+
+}
+#section-three-academy-domain .course-main-list{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.course-content .course-name{
+    font-size: 25px;
+}
+.course-main-list .course-main-card{
+    margin: 0px 0px 20px 0px;
+}
+
+
+/* section four{} */
+
+#section-four-services .heading-four{
+    margin: 0px;
+    padding-left: 40px;
+}
+#section-four-services .services-details{
+    padding: 25px 58px 12px 45px;
+}
+#section-four-services .services-list{
+    margin: 0;
+    font-size: 18px;
+    padding-right: 47px;
+
+}
+.services-list li{
+    margin: 10px 0px;
+}
+
+/* section five{} */
+
+#section-five-our-partners .heading-five{
+    margin: 0;
+    padding-top: 30px;
+}
+
+/* section six{} */
+
+.section-six-main-container p{
+    font-size: 30px;
+}
+.section-six-main-container p span{
+    padding-left: 57px;
+}
+
+#section-six-subscribe{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+/* footer{} */
+
+.footer-main-container .footer-link-container{
+    margin-left: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    gap: 0px;
+    font-size: 12px;
+    
+
+
+}
+.footer-contact-container{
+    line-height: 20px;
+}
+.footer-link-container .footer-quick-link-one-container,.footer-link-container .footer-quick-link-two-container{
+    line-height: 25px;
+}
+#footer-hr{
+    /* display: none; */
+    max-width: 295px;
+
+}
+.footer-social-media-links{
+    /* align-items: start; */
+    gap: 120px;
+}
+.ithra-logo-footer img{
+    max-width: 121px;
+}
+.footer-end{
+    margin-left: 20px;
+    padding: 20px;
+    gap: 20px;
+    font-size: 10px;
+}

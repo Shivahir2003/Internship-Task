@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    /* color: white; */
+}
+body{
+    background-color: black;
+    color: white !important;
+    
+}
+.card-bg-ithra,a{
+    color: white !important;
+    background-color: black;
+
+}
+#bg-img{
+    background: url(../images/main-section-bg-img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;  
+}
+.btn-view-color p,.card a,.card a i{
+    color: black !important;
+}
+ /* #section-one {
+    padding: 100px 50px;
+}*/
+.container-ithra #main-text {
+    /* font-size: 70px; */
+} 
+.card-width{
+    width: 350px;
+}
+#section-five{
+    color: black !important;
+}
+.logo-width{
+    width: 320px;
+}
+

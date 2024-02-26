@@ -1,0 +1,43 @@
+/* *{
+    overflow: hidden;
+} */
+header{
+    /* flex-direction: column; */
+    justify-content: space-around;
+    gap: 20px;
+    transition: all 0.50s ease-in-out;
+}
+
+/* header .collapse-btn:hover{
+    
+    
+} */
+
+header .collapse-btn{
+    display: flex;
+    color: antiquewhite;
+}
+header .search{
+    display: none;
+}
+.main #text-heading{
+    flex-wrap: wrap;
+    font-size: 36px;
+
+}
+.main #text-lower{
+    flex-wrap: wrap;
+    font-size: 20px;
+    
+}
+.main-home .card-container{
+    display: flex;
+    flex-direction: column;
+}
+.extra-content{
+    flex-direction: column;
+    
+}
+.extra-content button{
+    margin-top: 10px;
+}

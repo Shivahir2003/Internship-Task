@@ -1,0 +1,91 @@
+.header-container-ithra .header-top-left{
+    display: none;
+    /* flex-direction: column; */
+
+}
+.header-bottom-left{
+    /* flex-direction: column; */
+    
+}
+.header-container-ithra{
+    justify-content: space-around;
+    /* justify-content: left; */
+    /* display: block; */
+    align-items: baseline;
+    /* font-size: 0.5rem */
+    padding: 30px;
+    font-size: 12px;
+   
+}
+.header-container-ithra .header-right{
+    display: none;
+    
+}
+/* section{} */
+
+#section-one-consultation-details{
+    padding-right: 40px;
+}
+#section-one-consultation-details .consulatation-description{
+    padding-right: 4px;
+    word-spacing: 2px;
+}
+#section-two-form{
+
+}
+.form-input-details input{
+    min-width: 2px;
+    margin-right: 25px;
+    
+}
+.form-input-details input,.feedback-form input{
+    min-width: 2px;
+    margin-right: 20px;
+}
+.checkbox-inquiries #other-inquirie{
+    min-width: 88%;
+}
+
+/* {
+    min-width: 2px;
+    margin-right: 20px;
+} */
+
+/* footer{} */
+
+
+
+.footer-main-container .footer-link-container{
+    margin-left: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    gap: 0px;
+    font-size: 12px;
+    
+
+
+}
+.footer-contact-container{
+    line-height: 20px;
+}
+.footer-link-container .footer-quick-link-one-container,.footer-link-container .footer-quick-link-two-container{
+    line-height: 25px;
+}
+#footer-hr{
+    /* display: none; */
+    max-width: 295px;
+
+}
+.footer-social-media-links{
+    /* align-items: start; */
+    gap: 120px;
+}
+.ithra-logo-footer img{
+    max-width: 121px;
+}
+.footer-end{
+    margin-left: 20px;
+    padding: 20px;
+    gap: 20px;
+    font-size: 10px;
+}
